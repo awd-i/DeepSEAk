@@ -1,6 +1,6 @@
-# Grok Talent Engineer
+# DeepSEAk
 
-AI-powered talent discovery platform that uses Grok API to find and score engineering candidates from X (Twitter), GitHub, and LinkedIn.
+AI-powered talent discovery platform that uses Grok and X API to find and score engineering candidates from X (Twitter), GitHub, and LinkedIn.
 
 ## Features
 
