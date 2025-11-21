@@ -27,8 +27,6 @@ AI-powered talent discovery platform that uses Grok and X API to find and score 
   - Medium (40-59)
   - Low (<40)
 
-- **Vercel-Themed UI**: Beautiful, responsive frontend built with Next.js and Tailwind CSS
-
 ## Tech Stack
 
 ### Backend
